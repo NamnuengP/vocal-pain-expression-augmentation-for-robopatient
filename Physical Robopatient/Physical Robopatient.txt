@@ -1,0 +1,13 @@
+Physical Robopatient folder contains:
+- code for implementing the pain sound algorithm 
+- raw data
+- processed data files called Block 1 and Block 2
+
+Block 1 contains data from trials with only facial expression feedback.
+Block 2 contains data from trials with facial and audio pain expression feedback.
+
+– peaks: The palpation force (N) as shown
+– timestamps: Time stamps (s) for each palpation point 
+– xpos: x-position (mm) extrapolated from the time stamps
+– mu: Maximum pain point x_t
+– order: The order that the participant performed the experiment. 1 = participant performs the experiment with only facial expression feedback for the first 1-10 trial and with facial and audio pain expression feedback for the second 11-20 trial. 2 = participant performs the experiment with facial and audio pain expression feedback for the first 1-10 trial and with only facial expression feedback for the second 11-20 trial 

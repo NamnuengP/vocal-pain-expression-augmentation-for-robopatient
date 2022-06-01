@@ -1,0 +1,10 @@
+Virtual Robopatient folder contains:
+- Comprehensive code for the simulation of the virtual robopatient
+- Pain sound files
+- Facial Expression files 
+
+The control group and test group folders contain: 
+- Raw data
+- Plotted palpation trajectories from the control group and the test group. 
+
+Raw data files are named using in the following structure: S + Participant number + Trial number (either 1-10 or 11-20). For the control group, the results for trial 1-10 and 11-20 are from trials with only visual feedback. For the test group, the results for trial 1-10 are from trials with only visual feedback and trial 11-20 are from trials with visual and audio feedback. 
